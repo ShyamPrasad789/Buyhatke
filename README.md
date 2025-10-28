@@ -7,15 +7,15 @@ This project demonstrates an end-to-end business analysis workflow on **Buyhatke
 
 ## 📁 Project Structure
     ├── sample-data-audio.csv                                  # Source datase
-    ├── Business_Analyst_Assignment_Analysis_Enhanced.xlsx     # Cleaned Excel dashboard
-    ├── Buyhatke_Cab_Compare_Strategy_Enhanced_Final.pptx      # Strategy presentation
+    ├── Business_Analyst_Analysis_.xlsx                        # Cleaned Excel dashboard
+    ├── Buyhatke_Cab_Compare_Strategy_Final.pptx               # Strategy presentation
     ├── analysis_images/                                       # Auto-generated charts
     └── README.md                                              # Documentation
 
 ---
 
 ## ⚙️ Features
-✅ Automated data cleaning and preprocessing  ll
+✅ Automated data cleaning and preprocessing 
 ✅ Interactive Excel dashboard with KPIs  
 ✅ Conditional formatting (Top/Bottom performers)  
 ✅ Chart generation (Top 10 Products, Revenue Trend, Price Distribution)  
