@@ -15,7 +15,7 @@ This project demonstrates an end-to-end business analysis workflow on **Buyhatke
 ---
 
 ## ⚙️ Features
-✅ Automated data cleaning and preprocessing  
+✅ Automated data cleaning and preprocessing  ll
 ✅ Interactive Excel dashboard with KPIs  
 ✅ Conditional formatting (Top/Bottom performers)  
 ✅ Chart generation (Top 10 Products, Revenue Trend, Price Distribution)  
