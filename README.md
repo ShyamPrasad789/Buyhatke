@@ -7,9 +7,8 @@ This project demonstrates an end-to-end business analysis workflow on **Buyhatke
 
 ## 📁 Project Structure
     ├── sample-data-audio.csv                                  # Source datase
-    ├── Business_Analyst_Analysis_.xlsx                        # Cleaned Excel dashboard
-    ├── Buyhatke_Cab_Compare_Strategy_Final.pptx               # Strategy presentation
-    ├── analysis_images/                                       # Auto-generated charts
+    ├── Data_Analysis.xlsx                        # Cleaned Excel dashboard
+    ├── Buyhatke’s Cab Compare feature strategy.pptx               # Strategy presentation
     └── README.md                                              # Documentation
 
 ---
